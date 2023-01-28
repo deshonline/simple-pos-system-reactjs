@@ -1,0 +1,154 @@
+{
+    "products": [
+        {
+            "id": 100,
+            "name": "Keyboard",
+            "price": "1500",
+            "images": [
+                "images/keyboard/1.jpg",
+                "images/keyboard/2.jpg",
+                "images/keyboard/3.jpg"
+            ]
+        },
+        {
+            "id": 101,
+            "name": "Mouse",
+            "price": "1000",
+            "images": [
+                "images/mouse/1.jpg",
+                "images/mouse/2.jpg",
+                "images/mouse/3.jpg"
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Headphone",
+            "price": "2000",
+            "images": [
+                "images/headphone/1.jpg",
+                "images/headphone/2.jpg",
+                "images/headphone/3.jpg"
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Pen Drive",
+            "price": "500",
+            "images": [
+                "images/pen/1.jpg",
+                "images/pen/2.jpg",
+                "images/pen/3.jpg"
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Web Cam",
+            "price": "750",
+            "images": [
+                "images/cam/1.jpg",
+                "images/cam/2.jpg",
+                "images/cam/3.jpg"
+            ]
+        },
+        {
+            "id": 105,
+            "name": "RGB Cooling Fan",
+            "price": "1200",
+            "images": [
+                "images/fan/1.jpg",
+                "images/fan/2.jpg",
+                "images/fan/3.jpg"
+            ]
+        },
+        {
+            "id": 106,
+            "name": "RAM",
+            "price": "2500",
+            "images": [
+                "images/ram/1.jpg",
+                "images/ram/2.jpg",
+                "images/ram/3.jpg"
+            ]
+        },
+        {
+            "id": 107,
+            "name": "HDD",
+            "price": "4300",
+            "images": [
+                "images/hdd/1.jpg",
+                "images/hdd/2.jpg",
+                "images/hdd/3.jpg"
+            ]
+        },
+        {
+            "id": 108,
+            "name": "VGA",
+            "price": "6000",
+            "images": [
+                "images/vga/1.jpg",
+                "images/vga/2.jpg",
+                "images/vga/3.jpg"
+            ]
+        },
+        {
+            "id": 109,
+            "name": "Monitor",
+            "price": "5000",
+            "images": [
+                "images/monitor/1.jpg",
+                "images/monitor/2.jpg",
+                "images/monitor/3.jpg"
+            ]
+        },
+        {
+            "id": 110,
+            "name": "Processor",
+            "price": "8000",
+            "images": [
+                "images/proc/1.png",
+                "images/proc/2.jpg",
+                "images/proc/3.jpg"
+            ]
+        },
+        {
+            "id": 111,
+            "name": "Mother Board",
+            "price": "7000",
+            "images": [
+                "images/mboard/1.jpg",
+                "images/mboard/2.jpg",
+                "images/mboard/3.jpg"
+            ]
+        },
+        {
+            "id": 112,
+            "name": "SSD",
+            "price": "6500",
+            "images": [
+                "images/ssd/1.jpg",
+                "images/ssd/2.jpg",
+                "images/ssd/3.jpg"
+            ]
+        },
+        {
+            "id": 113,
+            "name": "UPS",
+            "price": "3300",
+            "images": [
+                "images/ups/1.jpg",
+                "images/ups/2.jpg",
+                "images/ups/3.jpg"
+            ]
+        },
+        {
+            "id": 114,
+            "name": "PSU",
+            "price": "3900",
+            "images": [
+                "images/psu/1.jpg",
+                "images/psu/2.jpg",
+                "images/psu/3.jpg"
+            ]
+        }
+    ]
+}
